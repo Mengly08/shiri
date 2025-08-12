@@ -1,0 +1,59 @@
+{
+  "storeName": "ETWTOPUP",
+  "storeTagline": "Mobile Legends & Free Fire Top-up Center",
+  "logoUrl": "https://raw.githubusercontent.com/Cheagjihvg/etw-top-up/refs/heads/main/1_copy-removebg-preview.png",
+  "faviconUrl": "https://raw.githubusercontent.com/Cheagjihvg/feliex-assets/refs/heads/main/favicon.ico",
+  "backgroundImageUrl": "https://raw.githubusercontent.com/Cheagjihvg/sckstore-assets/refs/heads/main/6282830456290394418 (1).jpg",
+  "banners": {
+    "banner1": "https://i.postimg.cc/NGJTJ0G5/Cover-Page-Bro-Zane-To.png",
+    "banner2": "https://i.postimg.cc/MpRQpb7Q/Cover-Websire.png"
+  },
+  "popupBanner": {
+    "image": "https://raw.githubusercontent.com/Cheagjihvg/CAPOO-STORE-ASSSET/refs/heads/main/IMG_0816-removebg-preview.png",
+    "enabled": false
+  },
+  "supportUrl": "https://t.me/zaneto1703",
+  "fb": "https://www.facebook.com/share/17vjeqCS4J/?mibextid=wwXIfr",
+  "channelUrl": "https://t.me/zaneto1703",
+  "games": {
+    "mlbb": {
+      "name": "Mobile Legends",
+      "tagline": "Diamonds & Weekly Pass",
+      "logoUrl": "https://raw.githubusercontent.com/Cheagjihvg/feliex-assets/refs/heads/main/IMG_1324.JPG",
+      "enabled": true,
+      "maintenanceMessage": "ស្តុក Mobile Legends មានបញ្ហា។ យើងនឹងត្រឡប់មកវិញឆាប់ៗនេះ!"
+    },
+    
+    "freefire": {
+      "name": "Free Fire",
+      "tagline": "Diamonds & Special Items",
+      "logoUrl": "https://raw.githubusercontent.com/Cheagjihvg/feliex-assets/refs/heads/main/IMG_1225.JPG",
+      "enabled": true,
+      "maintenanceMessage": "ស្តុក Free Fire មានបញ្ហា។ យើងនឹងត្រឡប់មកវិញឆាប់ៗនេះ!"
+    },
+    "mlbb_ph": {
+      "name": "Mobile Legends PH",
+      "tagline": "Diamonds & Weekly Pass",
+      "logoUrl": "https://raw.githubusercontent.com/Cheagjihvg/feliex-assets/refs/heads/main/IMG_2707.PNG",
+      "enabled": true,
+      "maintenanceMessage": "Mobile Legends top-up is currently under maintenance"
+    }
+  },
+  "payment": {
+    "khqr": {
+      "accountId": "etw_store@trmc",
+      "accountName": "ETW TOP UP",
+      "accountInformation": "34670417145214",
+      "currency": "USD",
+      "address": "PhnomPenh"
+    }
+  },
+  "colors": {
+    "primary": "yellow",
+    "secondary": "emerald",
+    "accent": "yellow"
+  },
+  "footer": {
+    "copyright": "© 2025 ETWTOPUP. All rights reserved."
+  }
+}
